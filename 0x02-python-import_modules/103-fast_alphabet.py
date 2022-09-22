@@ -1,3 +1,2 @@
-#!/usr/bin/pyton3
-from alphabet.py import alphabet
-print(alphabet)
+#!/usr/bin/python3
+import fast_alphabet_103
